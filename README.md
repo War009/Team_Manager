@@ -1,6 +1,6 @@
-# Executive Command Center: Employee Management & Analytics
+# Employee Management & Analytics
 
-The **Executive Command Center** is a comprehensive, data-driven mobile application designed for modern team management and organizational oversight. Built with Flutter, this platform bridges the gap between administrative data management and high-level strategic decision-making.
+This is a comprehensive, data-driven mobile application designed for modern team management and organizational oversight. Built with Flutter, this platform bridges the gap between administrative data management and high-level strategic decision-making.
 
 ## Overview
 Managers are often burdened by fragmented data. This application centralizes human resource management by combining a robust **Employee Directory (CRUD)** with a sophisticated **Analytics Dashboard**. It enables managers to not only track who is in the company but to understand *how* the company is performing in real-time.
